@@ -41,7 +41,7 @@ The dashboard answers key questions such as:
 ## 🔄 ETL Process
 
 ### 1️⃣ Data Extraction  
-Raw Olist datasets sourced from Kaggle, including:  
+Raw Olist datasets sourced from CSV/ Excel, including:  
 - Orders  
 - Customers  
 - Sellers  
